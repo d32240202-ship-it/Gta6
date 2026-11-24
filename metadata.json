@@ -1,0 +1,8 @@
+{
+  "name": "GTA VI — ولاية ليونيدا",
+  "description": "الموقع الرسمي التعريفي للعبة Grand Theft Auto VI في ولاية ليونيدا ومدينة فايس سيتي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
